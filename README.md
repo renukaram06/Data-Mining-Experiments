@@ -1,1 +1,1 @@
-# Data-Mining-Experiments
+# Statistical-Modelling-in-R
